@@ -1,5 +1,6 @@
 *<b>I am Imran Iqbal. I am a passionate and hard working individual who wants to deliver something back to the society while growing and grooming myself.*</b>
 
+![imi](https://user-images.githubusercontent.com/85309047/120903323-fd126a00-c65e-11eb-868a-f5ffb94cbf43.jpg)
 
 
 - 🔭 I’m currently working on my health and skills 
