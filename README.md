@@ -1,4 +1,4 @@
-*<b>I am Imran Iqbal. I am a passionate and hard working individual who wants to deliver something back to the society while growing and grooming myself.*</b>
+*<b>I am Emraan Iqbal. I am a passionate and hard working individual who wants to deliver something back to the society while growing and grooming myself.*</b>
 
 
 ![emi](https://user-images.githubusercontent.com/85309047/120903460-ac4f4100-c65f-11eb-86d9-7a70e4765987.png)
