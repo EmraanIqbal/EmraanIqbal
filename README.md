@@ -1,8 +1,7 @@
 *<b>I am Emraan Iqbal. I am a passionate and hard working individual who wants to deliver something back to the society while growing and grooming myself.*</b>
 
 
-<!-- ![1643042942487]() -->
-<img src="https://user-images.githubusercontent.com/85309047/152387365-45744747-35ae-410a-b7ae-e0498bc014c0.jpg" alt="Italian Trulli" width="400" height="400" object-fit: cover>
+<img src="https://user-images.githubusercontent.com/85309047/152388595-1d5885c3-2657-49f1-8a7e-47aab8071a25.PNG" alt="Italian Trulli" width="400" height="400" object-fit: cover>
 
 
 - 🔭 I’m currently working on my health and skills 
