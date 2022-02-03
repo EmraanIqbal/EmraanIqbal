@@ -2,7 +2,7 @@
 
 
 <!-- ![1643042942487]() -->
-<img src="https://user-images.githubusercontent.com/85309047/152387365-45744747-35ae-410a-b7ae-e0498bc014c0.jpg" alt="Italian Trulli">
+<img src="https://user-images.githubusercontent.com/85309047/152387365-45744747-35ae-410a-b7ae-e0498bc014c0.jpg" alt="Italian Trulli" width="500" height="600">
 
 
 - 🔭 I’m currently working on my health and skills 
